@@ -1,0 +1,32 @@
+// app global css in SCSS form
+@font-face {
+    font-family: "exo";
+    src: url("./fonts/exo/Exo-Regular.ttf");
+}
+
+@font-face {
+    font-family: "exo-thin";
+    src: url("./fonts/exo/Exo-Thin.ttf");
+}
+
+@font-face {
+    font-family: "exo-medium";
+    src: url("./fonts/exo/Exo-Medium.ttf");
+}
+
+.ds{border:1px solid red;}
+.bg-none{ background:none!important;}
+
+.bg-none{ background:none!important;}
+.bg-darkl0{ background: #22252A; }
+.bg-darkl1{ background: #2D3035; }
+.bg-darkl2{ background: #3E4148; }
+.bg-darkl3{ background: #8A8D93; }
+
+.text-darkl3{ color: #8A8D93; }
+.text-owngrey{ color: #8A8D93; }
+.text-darkl0{ color: #22252A; }
+
+.exo{ font-family: 'exo'; }
+.exo-thin{ font-family: 'exo-thin'; }
+.exo-med{ font-family: 'exo-medium'; }
